@@ -27,4 +27,6 @@ https://nomnomnami.itch.io/syrup-lite-rpg-framework
 feel free to contact me with comments, questions, or whatever else. i'll try to respond!
 email: nomnomnamidev@gmail.com
 
-- nami
+## Contact Us
+- Elon Litman ([email](mailto:elonlit@gmail.com))
+- Benjamin Souferian ([email](mailto:souferianb@gmail.com))
