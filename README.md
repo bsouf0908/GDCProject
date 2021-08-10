@@ -8,7 +8,7 @@
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📱Contact Us
+## 📞Contact Us
 - Elon Litman ([email](mailto:elonlit@gmail.com))
 - Benjamin Souferian ([email](mailto:souferianb@gmail.com))
 
