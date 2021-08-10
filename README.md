@@ -12,6 +12,6 @@
 - Elon Litman ([email](mailto:elonlit@gmail.com))
 - Benjamin Souferian ([email](mailto:souferianb@gmail.com))
 
-## License
+## 📝License
 
 [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](./LICENSE)
