@@ -1,3 +1,5 @@
+#Synergist
+
 hi, thanks for downloading syrup lite rpg framework!
 this is the sample project where you can find the scripts, and test the game for yourself to see how it works.
 
