@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 293, in script
+    return()
+Exception: Could not find return label (u'game/script.rpy', 1628234410, 17, 'end_translate').
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 293, in script
+    return()
+  File "C:\Users\Elon\Downloads\renpy-7.3.2-sdk\renpy\ast.py", line 1505, in execute
+    next_node(renpy.game.context().lookup_return(pop=True))
+  File "C:\Users\Elon\Downloads\renpy-7.3.2-sdk\renpy\execution.py", line 680, in lookup_return
+    raise Exception("Could not find return label {!r}.".format(self.return_stack[-1]))
+Exception: Could not find return label (u'game/script.rpy', 1628234410, 17, 'end_translate').
+
+Windows-8-6.2.9200
+Ren'Py 7.3.2.320
+Synergist 1.1
+Sun Aug 08 18:31:04 2021
